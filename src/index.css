@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* Memasukkan palet warna JS Tukangku */
+  --color-brand-red: #d31118;
+  --color-brand-dark: #231f20;
+  --color-brand-grey: #e6e7e8;
+}
+
+/* Opsional: Smooth scrolling untuk navigasi yang satisfying */
+html {
+  scroll-behavior: smooth;
+}
